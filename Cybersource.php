@@ -2,7 +2,7 @@
 
     define ('HMAC_SHA256', 'sha256');
     define ('PROFILE_ID', 'YOUR_PROFILE_ID_HERE');
-    define ('ACCESS_KEY', 'YOUR_Access_KEY_HERE');
+    define ('ACCESS_KEY', 'YOUR_ACCESS_KEY_HERE');
     define ('SECRET_KEY', 'YOUR_SECRET_KEY_HERE');
 
 
