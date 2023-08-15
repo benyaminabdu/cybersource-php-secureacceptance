@@ -7,10 +7,6 @@
 
 
     class Cybersource {
-
-        public function test(){
-            echo "ollas";
-        }
         
         public function sign ($params) {
             return $this->signData($this->buildDataToSign($params), SECRET_KEY);
